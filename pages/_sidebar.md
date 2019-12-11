@@ -2,3 +2,4 @@
 * [Git解密](inside-git.md)
   * [认识Git引用](inside-git-1.md)
   * [Tree对象和Commit对象](inside-git-2.md)
+  * [认识Git对象](inside-git-3.md)
