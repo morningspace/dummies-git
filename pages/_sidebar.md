@@ -5,3 +5,4 @@
   * [认识Git对象](inside-git-3.md)
 * [Git合并那些事](git-merge-stories.md)
   * [认识几种Merge方法](git-merge-stories-1.md)
+  * [Merge策略（上）](git-merge-stories-2.md)
