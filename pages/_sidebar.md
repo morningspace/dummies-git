@@ -6,3 +6,4 @@
 * [Git合并那些事](git-merge-stories.md)
   * [认识几种Merge方法](git-merge-stories-1.md)
   * [Merge策略（上）](git-merge-stories-2.md)
+  * [Merge策略（下）](git-merge-stories-3.md)
