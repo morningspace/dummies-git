@@ -9,3 +9,4 @@
   * [Merge策略（下）](git-merge-stories-3.md)
   * [当冲突发生的时候](git-merge-stories-4.md)
   * [撤销合并](git-merge-stories-5.md)
+  * [神奇的Rebase](git-merge-stories-6.md)
