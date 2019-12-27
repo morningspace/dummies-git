@@ -11,3 +11,4 @@
   * [撤销合并](git-merge-stories-5.md)
   * [神奇的Rebase](git-merge-stories-6.md)
   * [交互式Rebase](git-merge-stories-7.md)
+  * [Rebase的烦恼](git-merge-stories-8.md)
