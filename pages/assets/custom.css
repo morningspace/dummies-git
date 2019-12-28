@@ -1,0 +1,45 @@
+.github-corner svg {
+  fill: #e2573d;
+}
+
+.gitter-open-chat-button {
+  background-color: #e44b27;
+}
+
+.gitter-open-chat-button:hover {
+  background-color: #e2573d;
+}
+
+.cover .cover-main>p:last-child a:first-child {
+  border: #e44b27;
+  background: #e2573d; 
+}
+
+.cover .cover-main>p:last-child a:first-child:hover {
+  border: #e44b27;
+  background: #e2573d; 
+}
+
+.donate-button {
+  position: fixed;
+  display: inline-block;
+  top: 120px;
+  right: 10px;
+  margin: 0 auto;
+  padding: 0;
+  width: 60px;
+  height: 60px;
+  font-size: 28px;
+  line-height: 58px;
+  text-align: center;
+  vertical-align: middle;
+  color: #fff;
+  cursor: pointer;
+  -webkit-user-select: none;
+  border: 1px solid #f1b60e;
+  border-radius: 50%;
+  background: #fccd60;
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#fccd60),color-stop(100%,#fbae12),color-stop(100%,#2989d8),color-stop(100%,#207cca));
+  background: -webkit-linear-gradient(top,#fccd60 0,#fbae12 100%,#2989d8 100%,#207cca 100%);
+  background: linear-gradient(to bottom,#fccd60 0,#fbae12 100%,#2989d8 100%,#207cca 100%)
+}

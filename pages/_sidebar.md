@@ -1,4 +1,5 @@
 * [关于晴耕 · 白话](understanding-tech-for-dummies.md)
+* [支持晴耕 · 白话](donate.md)
 * [Git解密](inside-git.md)
   * [认识Git引用](inside-git-1.md)
   * [Tree对象和Commit对象](inside-git-2.md)
@@ -12,3 +13,9 @@
   * [神奇的Rebase](git-merge-stories-6.md)
   * [交互式Rebase](git-merge-stories-7.md)
   * [Rebase的烦恼](git-merge-stories-8.md)
+* [Git工作流面面观](git-workflow.md)
+  * 分支模型
+  * 集中式工作流
+  * 特性分支工作流
+  * Gitflow工作流
+  * Forking工作流
