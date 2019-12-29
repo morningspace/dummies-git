@@ -14,7 +14,7 @@
   * [交互式Rebase](git-merge-stories-7.md)
   * [Rebase的烦恼](git-merge-stories-8.md)
 * [Git工作流面面观](git-workflow.md)
-  * 分支模型
+  * [分支模型](git-workflow-1.md)
   * 集中式工作流
   * 特性分支工作流
   * Gitflow工作流
