@@ -5,7 +5,7 @@
 
 The eBook: "[Understand Tech for Dummies: Git Series](https://morningspace.github.io/dummies-git/pages)"
 
-电子书：晴耕 · 白话 之 Git系列（中文版）
+电子书：[晴耕 · 白话 之 Git系列](https://morningspace.github.io/dummies-git/pages)
 
 > 这里，没有难懂的知识；
 > 只有最浅显的文字，最直观的图示，最鲜活的例子；
